@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "mo",
+  "identifier": "texture:100557-1e0b088f-8b43-449c-813b-bdd81c9bc1d3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "07ab4a107a5b0f653f16baa8899b5214",
+  "assetLocator": "textures/mo.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 575,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "07ab4a107a5b0f653f16baa8899b5214",
+      "colorCount": 61861,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.8288741625354747,
+      "pixelsHigh": 575,
+      "pixelsWide": 1024
+    }
+  ]
+}
